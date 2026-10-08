@@ -1,9 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Likhitha !👋
 
 # 💫 About Me:
 I'm a 4th year Digital Forensics and Cybersecurity Student. <br>I have contributed to a number of different projects that I<br>participated as a group and on my own, outside of my study <br>hours, I am currently studying for the CompTIA security +<br> exam. I'm also looking to collaborate with senior professionals <br>and experts in my area of study to help me gain insightful <br>experiences.
 
-
+# Projects :
+-> Created a mini functional cafe system on command prompt using Java.
+https://github.com/lillyy05/Cafe-mini-project.git
+-> Made a website using HTML and CSS through a text editor (Brackets)
+https://github.com/lillyy05/Avatar.git
+-> Created a game using the Unity software, editing code in C++
+https://github.com/lillyy05/IMMProject.git
+-> Created a full stack e-commerce website using SQL, PHP, HTML and CSS
+https://github.com/lillyy05/Pawsible.git
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/likhitha-atmakuri-a630b5292) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:likhithaatm@gmail.com) 
 
